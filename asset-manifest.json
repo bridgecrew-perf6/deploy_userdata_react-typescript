@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy_userdata_react-typescript/static/css/main.7d5f4266.css",
+    "main.js": "/deploy_userdata_react-typescript/static/js/main.b6b3ab42.js",
+    "index.html": "/deploy_userdata_react-typescript/index.html",
+    "main.7d5f4266.css.map": "/deploy_userdata_react-typescript/static/css/main.7d5f4266.css.map",
+    "main.b6b3ab42.js.map": "/deploy_userdata_react-typescript/static/js/main.b6b3ab42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d5f4266.css",
+    "static/js/main.b6b3ab42.js"
+  ]
+}
